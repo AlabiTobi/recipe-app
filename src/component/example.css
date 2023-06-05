@@ -1,0 +1,16 @@
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.buttonOne {
+  background-color: red;
+}
+.buttonTwo {
+  background-color: green;
+}
+h1 {
+  font-size: 2rem;
+  justify-content: space-between;
+}
